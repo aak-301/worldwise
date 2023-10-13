@@ -23,6 +23,42 @@
         "lng": "84.42031860351562"
       },
       "id": 98443202
+    },
+    {
+      "cityName": "Butwal",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2023-10-13T15:20:33.196Z",
+      "notes": "Nice Place. The food was also tasty here",
+      "position": {
+        "lat": "27.68709465956762",
+        "lng": "83.46588134765626"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Patna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-13T15:22:45.956Z",
+      "notes": "This is the place where I live",
+      "position": {
+        "lat": "25.61352370394168",
+        "lng": "85.06181716918947"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Punalur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-13T15:24:00.268Z",
+      "notes": "Great place to visit. The was very tasty. And the locals were very hospitable",
+      "position": {
+        "lat": "8.902921842652498",
+        "lng": "77.03613281250001"
+      },
+      "id": 98443205
     }
   ]
 }
