@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Aathbiskot",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2023-10-10T08:43:52.014Z",
+      "notes": "Nepal country",
+      "position": {
+        "lat": "28.890143590159646",
+        "lng": "82.56904939733982"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Barharia",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-13T13:18:27.092Z",
+      "notes": "",
+      "position": {
+        "lat": "26.352551824327588",
+        "lng": "84.42031860351562"
+      },
+      "id": 98443202
+    }
+  ]
+}
