@@ -14,7 +14,15 @@ It also gives you a link of that place where you can learn about that place
 2. Vite
 3. npm
 4. leaflet for map
-5. react-router-dom 
-   a. dynamic routes
-   b. protecting routes if not logged-in
-   c. Routing to different pages conditionally
+5. react-router-dom
+   <ul>
+   <li>
+       dynamic routes
+   </li>
+   <li>
+       protecting routes if not logged-in
+   </li>
+   <li>
+       Routing to different pages conditionally
+   </li>
+   </ul>
